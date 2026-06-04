@@ -1,4 +1,4 @@
-# 🤖 Plan-AI — Multi-Functional AI Agent
+z# 🤖 Plan-AI — Multi-Functional AI Agent
 
 Plan-AI is a modular AI agent system designed to intelligently manage tasks, calendar events, and notes using a structured multi-agent workflow. It leverages a sequential agent architecture to analyze user intent and execute the appropriate actions via integrated tools.
 
@@ -68,14 +68,14 @@ User Input → Intent Analyzer → Specialized Agent → Tool Execution → Resp
 
 ## 🏗️ Project Structure
 
-- Plan-AI/
-- │── agent.py                # Main multi-agent workflow
-- │── tools/
-- │   ├── task_tools.py       # Task operations
-- │   ├── calendar_tools.py   # Calendar operations
-- │   ├── notes_tools.py      # Notes operations
-- │── requirements.txt        # Dependencies
-- │── .env                    # Environment variables
+    Plan-AI/
+    │── agent.py                # Main multi-agent workflow
+    │── tools/
+    │   ├── task_tools.py       # Task operations
+    │   ├── calendar_tools.py   # Calendar operations
+    │   ├── notes_tools.py      # Notes operations
+    │── requirements.txt        # Dependencies
+    │── .env                    # Environment variables
 
 ---
 
