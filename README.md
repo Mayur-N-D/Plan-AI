@@ -1,4 +1,4 @@
-z# 🤖 Plan-AI — Multi-Functional AI Agent
+# 🤖 Plan-AI — Multi-Functional AI Agent
 
 Plan-AI is a modular AI agent system designed to intelligently manage tasks, calendar events, and notes using a structured multi-agent workflow. It leverages a sequential agent architecture to analyze user intent and execute the appropriate actions via integrated tools.
 
